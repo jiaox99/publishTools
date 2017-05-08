@@ -1,0 +1,9 @@
+<vaPublishConfig>
+    <feature name="本周合并版本" branchDir="release" gitBranch="develop"/>
+    <feature name="新浪多语言（简、繁）" branchDir="test001" gitBranch="feature/jzx_langZH"/>
+    <feature name="情人节时装" branchDir="test002" gitBranch="feature/zsy_20170207Act"/>
+    <feature name="航海消耗目标" branchDir="test003" gitBranch="feature/yxq_seafaringConsume"/>
+	<feature name="塔天赋界面" branchDir="test004" gitBranch="feature/wch_tower_skill"/>
+	<feature name="远方的祝福" branchDir="test005" gitBranch="feature/zsy_170223Act"/>
+	<feature name="新手引导修改" branchDir="test006" gitBranch="feature/jzx_guideFix"/>
+</vaPublishConfig>
